@@ -1,4 +1,3 @@
-````markdown
 # vulnscan
 
 A small Python vulnerability scanner that performs **safe, non-intrusive checks** against a single target you own or have explicit permission to test.
@@ -164,4 +163,3 @@ Findings:
 
 - This tool is intended for learning and basic assessment. It does **not** exploit vulnerabilities.
 - Run scans only on systems you are authorized to test.
-````
