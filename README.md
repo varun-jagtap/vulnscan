@@ -73,10 +73,6 @@ Two files are generated:
       "banner": "SSH-2.0-OpenSSH_10.0p2 Debian-7+deb13u2"
     },
     {
-      "port": 53,
-      "banner": null
-    },
-    {
       "port": 80,
       "banner": null
     },
@@ -150,7 +146,6 @@ Scanned at (UTC): 2026-05-02T01:44:15.238605+00:00
 
 Open Ports:
   - 22/tcp (banner: SSH-2.0-OpenSSH_10.0p2 Debian-7+deb13u2)
-  - 53/tcp
   - 80/tcp
   - 222/tcp (banner: SSH-2.0-OpenSSH_10.2)
   - 443/tcp
